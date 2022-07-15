@@ -1,4 +1,4 @@
 # listadetarefas
 https://esterferreirac.github.io/listadetarefas/
 
-![aparenciaLista](https://user-images.githubusercontent.com/63823344/179129024-f71ec32a-b898-439b-bc20-a83368dc6284.png)
+![aparenciaLista](https://user-images.githubusercontent.com/63823344/179129163-891669e0-bc77-4f16-9f1e-37a264de93f9.png)
